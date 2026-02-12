@@ -1,0 +1,16 @@
+ create table Document_tb(
+ DocumentID varchar2(12 BYTE) PRIMARY KEY, 
+ Title varchar2(60 BYTE) NOT NULL,
+ Type varchar2(30 BYTE) NOT NULL,
+ Submitter varchar2(50 BYTE) NOT NULL,
+ SubmitDate Date NOT NULL,
+ Status varchar2(20 BYTE) NOT NULL,
+ Remarks varchar2(100 BYTE)
+ );
+
+CREATE SEQUENCE DOCUMENT_SEQ
+START WITH 10
+INCREMENT BY 1
+MAXVALUE 99
+NOCACHE
+NOCYCLE;
