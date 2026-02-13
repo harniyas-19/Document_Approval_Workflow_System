@@ -53,9 +53,8 @@ Eclipse IDE
 <img width="689" height="251" alt="image" src="https://github.com/user-attachments/assets/20d60bac-eb87-43a6-9efa-b1334f480053" />
 <img width="1097" height="509" alt="image" src="https://github.com/user-attachments/assets/11bc7075-fce9-4dee-ae2d-f2493f6faa29" />
 <img width="1103" height="321" alt="image" src="https://github.com/user-attachments/assets/f7062a43-7241-4b5d-bd2e-857c1ebe203c" />
-<img width="740" height="405" alt="image" src="https://github.com/user-attachments/assets/57f14cbc-b9b7-468d-9998-b666f870c785" />
 <img width="768" height="370" alt="image" src="https://github.com/user-attachments/assets/81c8bd48-53a8-4d84-b9b0-443891ccccd8" />
 <img width="704" height="259" alt="image" src="https://github.com/user-attachments/assets/b5b28e8f-3afd-4107-911c-ea8ba0efc3f4" />
 <img width="633" height="227" alt="image" src="https://github.com/user-attachments/assets/e72fc5b5-0293-49d2-9e9f-da2114356972" />
 <img width="691" height="244" alt="image" src="https://github.com/user-attachments/assets/76387ad9-b08e-4fa8-b910-842aef7905c1" />
-![Uploading image.png…]()
+
